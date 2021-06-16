@@ -1,2 +1,2 @@
-# TeslaClone (Tesla website copy)
+# TeslaClone
 React Redux + Styled Components
